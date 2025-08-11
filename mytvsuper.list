@@ -1,0 +1,16 @@
+# myTV SUPER
+# 匹配域名后缀及匹配域名关键字
+# 引用 https://whatshub.top/rule/myTVSUPER.list
+# 引用 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Loon/myTVSUPER/myTVSUPER.list
+
+DOMAIN,mytvsuperlimited.hb.omtrdc.net
+DOMAIN,mytvsuperlimited.sc.omtrdc.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,tvb-mytvsuper.servicebus.windows.net
+DOMAIN-SUFFIX,asia-east2-tvb-eshopping-dev.cloudfunctions.net
+DOMAIN-SUFFIX,td.doubleclick.net
+DOMAIN-SUFFIX,mytv.demdex.net
+USER-AGENT,mytv*
