@@ -1,0 +1,6 @@
+# Google TV网络受限解决方法
+# time.android.com
+# 匹配域名后缀及匹配域名关键字
+
+DOMAIN,time.android.com
+DOMAIN-SUFFIX,time.android.com
