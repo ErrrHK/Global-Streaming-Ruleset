@@ -1,0 +1,6 @@
+# zerotier
+# 匹配域名关键字及匹配域名后缀
+
+DOMAIN-KEYWORD,zerotier
+DOMAIN-SUFFIX,my.zerotier.com
+DOMAIN-SUFFIX,www.zerotier.com
