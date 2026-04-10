@@ -6,9 +6,9 @@
 # TOTAL: 1
 
 DOMAIN,music.youtube.com
+DOMAIN-KEYWORD,googlevideo
 DOMAIN-SUFFIX,music.youtube.com
 DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,YouTubeMusic
 DOMAIN,push.apple.com
 DOMAIN-SUFFIX,push.apple.com
