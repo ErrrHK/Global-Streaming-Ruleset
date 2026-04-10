@@ -7,12 +7,15 @@
 
 DOMAIN,music.youtube.com
 DOMAIN-SUFFIX,music.youtube.com
-DOMAIN,music.youtube.com,DIRECT
-DOMAIN-SUFFIX,YouTubeMusic,DIRECT
-DOMAIN-SUFFIX,googlevideo,DIRECT
-DOMAIN,googlevideo.com,DIRECT
+DOMAIN,push.apple.com
+DOMAIN-SUFFIX,push.apple.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-KEYWORD,googlevideo
 DOMAIN-KEYWORD,YouTubeMusic
 DOMAIN,com.google.ios.youtubemusic
 DOMAIN-SUFFIX,com.google.ios.youtubemusic
+DOMAIN,music.youtube.com,DIRECT
+DOMAIN-SUFFIX,YouTubeMusic,DIRECT
+DOMAIN-SUFFIX,googlevideo,DIRECT
+DOMAIN,googlevideo.com,DIRECT
+
