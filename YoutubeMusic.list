@@ -15,6 +15,5 @@ DOMAIN,com.google.ios.youtubemusic
 DOMAIN,googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,googleapis.com
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-KEYWORD,googlevideo
+
 
