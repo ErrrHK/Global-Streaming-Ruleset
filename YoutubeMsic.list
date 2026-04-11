@@ -1,0 +1,23 @@
+# NAME: YouTubeMusic
+# AUTHOR: blackmatrix7
+# REPO: https://github.com/blackmatrix7/ios_rule_script
+# UPDATED: 2025-06-06 09:15:10
+# DOMAIN: 1
+# TOTAL: 1
+
+DOMAIN,music.youtube.com
+DOMAIN-SUFFIX,music.youtube.com
+USER-AGENT,*YouTubeMusic*
+USER-AGENT,*com.google.ios.youtubemusic*
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
+DOMAIN,googleapis.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-KEYWORD,googleapis.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-KEYWORD,YouTubeMusic
+DOMAIN,push.apple.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,com.google.ios.youtubemusic
+DOMAIN-SUFFIX,com.google.ios.youtubemusic
