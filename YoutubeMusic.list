@@ -5,20 +5,16 @@
 # DOMAIN: 1
 # TOTAL: 1
 
-DOMAIN,music.youtube.com
 DOMAIN-SUFFIX,music.youtube.com
-USER-AGENT,*YouTubeMusic*
-USER-AGENT,*com.google.ios.youtubemusic*
-USER-AGENT,YouTubeMusic*
-USER-AGENT,com.google.ios.youtubemusic*
+DOMAIN,music.youtube.com
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN,push.apple.com
+DOMAIN-KEYWORD,YouTubeMusic
+DOMAIN-SUFFIX,com.google.ios.youtubemusic
+DOMAIN,com.google.ios.youtubemusic
 DOMAIN,googleapis.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-KEYWORD,googleapis.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-KEYWORD,googlevideo
-DOMAIN-KEYWORD,YouTubeMusic
-DOMAIN,push.apple.com
-DOMAIN-SUFFIX,push.apple.com
-DOMAIN,com.google.ios.youtubemusic
-DOMAIN-SUFFIX,com.google.ios.youtubemusic
 
