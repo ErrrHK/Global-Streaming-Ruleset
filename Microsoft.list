@@ -1,0 +1,21 @@
+# Microsoft分流組复盖MSN、Bing、Outlook、OneDrive、Office 365、MicrosoftAccount等服务
+
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.cn
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,hotmail.com
+DOMAIN-SUFFIX,outlook.com
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,onmicrosoft.com
