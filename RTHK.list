@@ -1,10 +1,5 @@
 #RTHK
 # 匹配域名后缀及匹配域名关键字
-DOMAIN-KEYWORD,rthk
-DOMAIN-SUFFIX,rthk.hk
-DOMAIN-SUFFIX,rthk.org.hk
-DOMAIN-SUFFIX,fantv.hk
-DOMAIN-SUFFIX,hkopentv.com
 DOMAIN-SUFFIX,rthktv31-vos-live.akamaized.net
 DOMAIN-SUFFIX,rthktv33-vos-live.akamaized.net
 DOMAIN-SUFFIX,rthktv34-vos-live.akamaized.net
@@ -24,7 +19,11 @@ DOMAIN-SUFFIX,rthkradiocnrhk-live.akamaized.net
 DOMAIN-SUFFIX,rthkradiopth-live.akamaized.net
 DOMAIN-SUFFIX,rthktv31-live.akamaized.net
 DOMAIN-SUFFIX,rthktv32-live.akamaized.net
-
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rthk.org.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-KEYWORD,rthk
 
 
 
