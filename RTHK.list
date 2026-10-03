@@ -1,12 +1,12 @@
 #RTHK
 # 匹配域名后缀及匹配域名关键字
+DOMAIN,rthk.live.ott.irdeto.com
+DOMAIN,rthkauthtoken.azurewebsites.net
+DOMAIN,api01.rthk.hk
 DOMAIN,rthktv31-vos-live.akamaized.net
 DOMAIN,rthktv33-vos-live.akamaized.net
 DOMAIN,rthktv34-vos-live.akamaized.net
 DOMAIN,rthktv35-vos-live.akamaized.net
-DOMAIN,rthk.live.ott.irdeto.com
-DOMAIN,rthkauthtoken.azurewebsites.net
-DOMAIN,api01.rthk.hk
 DOMAIN,rthkwebapp1.datacanva.com
 DOMAIN,rthklive2-lh.akamaihd.net
 DOMAIN,rthkradio1-live.akamaized.net
