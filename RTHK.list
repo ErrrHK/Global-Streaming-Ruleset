@@ -1,5 +1,6 @@
 #RTHK
 # 匹配域名后缀及匹配域名关键字
+DOMAIN-KEYWORD,rthk
 DOMAIN-SUFFIX,rthk.hk
 DOMAIN-SUFFIX,rthk.org.hk
 DOMAIN-SUFFIX,fantv.hk
